@@ -1,0 +1,14 @@
+.wrapper {
+    display: flex;
+    justify-content: space-around;
+}
+.circle{
+    color: white;
+    display: flex;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
